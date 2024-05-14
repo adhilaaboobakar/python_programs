@@ -1,0 +1,6 @@
+year = int(input("enter a year"))
+
+if year%100 == 0 :
+    print("it is century year")
+else:
+    print("Its not a century year")

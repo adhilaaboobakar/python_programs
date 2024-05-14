@@ -1,0 +1,8 @@
+name = "adhila"
+place = "kothamangalam"
+course = "django"
+age = 22
+
+print("hello all",name, "from",place)
+
+print(f" hello all my name is {name} from {place} am doing {course} and {age} years old")
